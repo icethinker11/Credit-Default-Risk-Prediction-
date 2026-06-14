@@ -1,2 +1,2 @@
 # Credit-Default-Risk-Prediction-
-A process of creation a model of Deep learning that can predict when do a person will be conisdered as a default
+A process of creating a model of Deep learning that can predict when a person will be considered in default
